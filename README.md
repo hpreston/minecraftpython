@@ -54,6 +54,7 @@ This repository includes a few programs that we've written to explore the librar
 * `bedrock_stack.py` - Create a simple 3 block stack next to the player 
 * `wall.py` - Surround the player with a wall of bricks 
 * `shelter.py` - Create an emergency shelter with the necessities 
+* `flatten_area.py` - Quickly create an empty flat space for building.  
 
 ## Resources and References 
 I would like to highly recommend the book [Learn to Program with Minecraft](https://nostarch.com/programwithminecraft) by Craig Richardson and available from No Starch books.  This is a great book written for kids and kids at heart to quickly learn the key fundamentals of Python through interaction with Minecraft.  It provided lots of inspiration for my own lessons with my son.  
